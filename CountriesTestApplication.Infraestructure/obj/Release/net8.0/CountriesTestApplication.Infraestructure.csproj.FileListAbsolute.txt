@@ -1,0 +1,16 @@
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\bin\Release\net8.0\CountriesTestApplication.Infraestructure.deps.json
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\bin\Release\net8.0\CountriesTestApplication.Infraestructure.dll
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\bin\Release\net8.0\CountriesTestApplication.Infraestructure.pdb
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\bin\Release\net8.0\CountriesTestApplication.Data.dll
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\bin\Release\net8.0\CountriesTestApplication.Data.pdb
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.AssemblyInfo.cs
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\Countrie.482EC326.Up2Date
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.dll
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\refint\CountriesTestApplication.Infraestructure.dll
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.pdb
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\ref\CountriesTestApplication.Infraestructure.dll
+C:\Users\BabyK\source\repos\CountriesTestApplication\CountriesTestApplication.Infraestructure\obj\Release\net8.0\CountriesTestApplication.Infraestructure.sourcelink.json

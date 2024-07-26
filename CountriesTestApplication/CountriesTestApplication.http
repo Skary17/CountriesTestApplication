@@ -1,0 +1,6 @@
+@CountriesTestApplication_HostAddress = http://localhost:7077
+
+GET {{CountriesTestApplication_HostAddress}}/Country/
+Accept: application/json
+
+###
